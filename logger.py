@@ -33,4 +33,4 @@ if __name__ == '__main__':
   log.debug('debug')
   log.info('info')
   log.warning('warning')
-  log.error('error')
+  log.error('error!')
